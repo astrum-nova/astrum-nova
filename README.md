@@ -9,7 +9,7 @@
     <img title="Interests" align="center" style="height: 30px" src="https://cdn-icons-png.flaticon.com/256/3534/3534033.png"/>&nbsp
     I am currently studying computer science and software engineering at university.<br>
     <img title="Projects" align="center" style="height: 30px" src="https://i.pinimg.com/originals/23/29/50/232950c6bddcea84d3415e0ed646dd16.png"/>&nbsp
-    Personal projects: <a href="https://github.com/Evryon75/Evryon75/blob/main/PROJECTS.md">PROJECTS.md</a>.<br>
+    Personal projects: <a href="https://github.com/astrum-nova/astrum-nova/blob/main/PROJECTS.md">PROJECTS.md</a>.<br>
   </h3>
 </div>
 <h2><img title="Projects" align="center" style="height: 50px" src="https://cdn-icons-png.freepik.com/256/2721/2721593.png?semt=ais_hybrid"/>&nbspLanguages</h2>
