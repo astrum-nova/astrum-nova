@@ -24,7 +24,7 @@
 <div align="center">
   <h3 align="left">
     Jetbrains: Intellij, Pycharm, Webstorm, Clion, Rider, Goland <br>
-    Microsoft: Visual Studio Code, Vistual Studio 2019/2022 <br>
+    Microsoft: Visual Studio Code, Visual Studio 2019/2022 <br>
   </h3>
 </div>
 <h2><img title="Projects" align="center" style="height: 40px" src="https://camo.githubusercontent.com/a3ad569a4f81d9e4faf06f09f1ee1786e199b53c31b2bdd34bf6b4f3fdebb1fa/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67"/>&nbsp Tools</h2>
